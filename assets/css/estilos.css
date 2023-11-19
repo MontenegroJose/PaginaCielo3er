@@ -31,7 +31,7 @@ header {
   color: black;
   padding-top: 50px;
   padding-bottom: 50px;
-  background-image: url("fondoCielo.jpeg");
+  background-image: url("../../assets/img/fondoCielo.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -143,7 +143,7 @@ footer ul li a {
 }
 
 #sol {
-  background-image: url("fondoSol.jpeg");
+  background-image: url("../../assets/img/fondoSol.jpeg.jpeg");
   color: #f7f7f7;
   background-repeat: no-repeat;
   background-size: cover;
@@ -174,7 +174,7 @@ footer ul li a {
 }
 
 #luna0{
-  background-image: url("fondoLuna.jpeg");
+  background-image: url("../../assets/img/fondoLuna.jpeg");
   height: 40vw;
   background-repeat: no-repeat;
   background-size: cover;
