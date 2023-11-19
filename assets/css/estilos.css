@@ -43,7 +43,7 @@ header h1 {
   height: 20%;
   display: block;
   margin: 2% 2% 2% 2% !important;
-  
+
 }
 
 header h6 {
@@ -143,7 +143,7 @@ footer ul li a {
 }
 
 #sol {
-  background-image: url("../../assets/img/fondoSol.jpeg.jpeg");
+  background-image: url("../../assets/img/fondoSol.jpeg");
   color: #f7f7f7;
   background-repeat: no-repeat;
   background-size: cover;
